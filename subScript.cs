@@ -10,6 +10,8 @@ public class subScript : MonoBehaviour
     {
         Debug.Log("i am sub repo");
         Debug.Log("Sub repo update");
+
+        Debug.Log(gameObject.name);
     }
 
     // Update is called once per frame
